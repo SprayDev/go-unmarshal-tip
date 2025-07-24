@@ -1,0 +1,23 @@
+{
+  "items" : [
+    {
+      "name": "test",
+      "status": {
+        "id": 1,
+        "name": "New"
+      }
+    },
+    {
+      "name": "test null",
+      "status": null
+    },
+    {
+      "name": "test \"null\"",
+      "status": "null"
+    },
+    {
+      "name": "test empty []",
+      "status": []
+    }
+  ]
+}
